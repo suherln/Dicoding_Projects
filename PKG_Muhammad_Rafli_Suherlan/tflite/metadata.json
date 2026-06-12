@@ -1,0 +1,26 @@
+{
+  "model_name": "Vegetable_Classification_Model",
+  "num_classes": 15,
+  "classes": [
+    "Bean",
+    "Bitter_Gourd",
+    "Bottle_Gourd",
+    "Brinjal",
+    "Broccoli",
+    "Cabbage",
+    "Capsicum",
+    "Carrot",
+    "Cauliflower",
+    "Cucumber",
+    "Papaya",
+    "Potato",
+    "Pumpkin",
+    "Radish",
+    "Tomato"
+  ],
+  "input_shape": [
+    128,
+    128,
+    3
+  ]
+}
